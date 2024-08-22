@@ -1,1 +1,1 @@
-# Information-Security
+This repository contains labs, TryHackMe and machines that I have done. I am very passionate about Information Security. I am CompTIA Security+ certified, a CCNA as well as a member of ISC2 and ISC2 CC certified. Feel free to look into the work I did in Information Security while at college.
